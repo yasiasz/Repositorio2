@@ -1,0 +1,62 @@
+body {
+	font-family: Helvetica ;
+	background-color: white;
+	line-height: 1.6;
+	background-size: 16px;
+}
+header {
+	background-color: whitesmoke;
+	border: 1px ;
+	margin: 10px;
+
+}
+img {
+	width: 100px;
+	height: 100px;
+	padding: 45px;
+
+}
+.pie {
+	background-color: whitesmoke;
+	width: 193px;
+	padding: 4px;
+	border-radius: 2%;
+	display: inline-block;
+
+}
+.pie1 {
+	background-color: whitesmoke;
+	width: 193px;
+	padding: 4px;
+	border-radius: 2%;
+	display: inline-block;
+}
+.pie2 {
+	background-color: whitesmoke;
+	width: 193px;
+	padding: 4px;
+	border-radius: 2%;
+	display: inline-block;
+}
+.pie3 {
+	background-color: whitesmoke;
+	width: 193px;
+	padding: 4px;
+	border-radius: 2%;
+	display: inline-block;
+}
+.pie4 {
+	background-color: whitesmoke;
+	width: 193px;
+	padding: 4px;
+	border-radius: 2%;
+	display: inline-block;
+	margin: 5px;
+}
+.pie5 {
+	background-color: whitesmoke;
+	width: 193px;
+	padding: 4px;
+	border-radius: 2%;
+	display: inline-block;
+}

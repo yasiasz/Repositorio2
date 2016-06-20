@@ -1,0 +1,30 @@
+body {
+	background-color: #edeff0;
+	font-family: Helvetica;
+	background-size: 18px;
+	line-height: 1.5;
+}
+.btn-ttc {
+	color: white;
+	background-color: #3f8abf;
+	border-color: #326e99;
+}
+.btn-tte {
+	color: white;
+	background-color: #5fcf80;
+	border-color: #3ac162;
+}
+p {
+	color: #b2bac2;
+	margin: 20px 42px 41px 0px;
+}
+title {
+	font-size: 28px;
+	color: #384047;
+}
+.container {
+	width: 700px;
+	background-color: white;
+}
+
+
